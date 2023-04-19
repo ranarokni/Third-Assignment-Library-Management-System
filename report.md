@@ -1,7 +1,7 @@
-#IN GOD WE TRUST
+# IN GOD WE TRUST
 ![logo](Logo.png)
 
-#THIRD ASSIGNMENT
+# THIRD ASSIGNMENT
 ## Rana Rokni 401222066
 1. Introduction
 
